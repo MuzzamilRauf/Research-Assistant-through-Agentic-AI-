@@ -1,0 +1,4 @@
+crewai
+langchain_core
+google-generativeai
+langchain
